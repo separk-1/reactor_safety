@@ -44,13 +44,13 @@ conda activate reactor_safety
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/separk-1/Reactor_safety.git
+git clone https://github.com/separk-1/reactor_safety.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Reactor_safety
+cd reactor_safety
 ```
 
 3. Ensure that the necessary data files are in the `data/` directory.
