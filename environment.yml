@@ -1,4 +1,4 @@
-name: Reactor_safety
+name: reactor_safety
 channels:
   - conda-forge
   - defaults
