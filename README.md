@@ -37,19 +37,26 @@ To set up the environment, use the `environment.yml` file with `conda`:
 ```bash
 conda env create -f environment.yml
 conda activate reactor_safety
+```
 
 ## Usage
 
 1. Clone the repository:
 
-   git clone https://github.com/separk-1/Reactor_safety.git
+```bash
+git clone https://github.com/separk-1/Reactor_safety.git
+```
 
 2. Navigate to the project directory:
 
-   cd Reactor_safety
+```bash
+cd Reactor_safety
+```
 
 3. Ensure that the necessary data files are in the `data/` directory.
 
 4. Run the scripts as needed for analysis or visualization. For example:
 
-   python lda.py
+```bash
+python lda.py
+```
