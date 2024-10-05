@@ -82,6 +82,7 @@ def visualize_knowledge_graph(concepts, relationships):
     nx.draw_networkx_edge_labels(G, pos, edge_labels=nx.get_edge_attributes(G, 'label'))
     plt.show()
 
+
 # 메인 실행 함수
 folder_path = './data/'  # PDF 파일들이 있는 폴더 경로
 documents_text = extract_all_text_from_pdfs(folder_path)
