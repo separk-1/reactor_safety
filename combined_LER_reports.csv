@@ -1,0 +1,414 @@
+LER Number,Plant Name,Event Date,Report Date,Title/Abstract,Cause Labels,Incident Labels
+252022001.0,Vogtle 3,10/06/2022,12/02/2022,Automatic Reactor Trip Signal due to Inadequate Procedure Guidance Causing Incorrect Opening of Division B DC Supply Breaker,['Design or Maintenance Issues'],['Operational Incidents']
+252022002.0,Vogtle 3,10/23/2022,02/03/2023,Automatic Depressurization System Stage 4 Flow Paths Inoperable During Mode 6 with Upper Internals in Place due to Inadequate Work Processes,['Design or Maintenance Issues'],['Unclassified']
+252022003.0,Vogtle 3,10/24/2022,12/19/2022,Unborated Water Flowpath Not Secured per Technical Specification 3.9.2 due to Inadequate Procedure Revision,['Design or Maintenance Issues'],['Unclassified']
+252023001.0,Vogtle 3,01/14/2023,03/14/2023,Manual Actuation of Reactor Protection System During Mode 3 due to an Inadequate Procedure Step,['Design or Maintenance Issues'],['Operational Incidents']
+252023002.0,Vogtle 3,03/15/2023,05/15/2023,"Automatic RPS Actuation During Mode 1 due to Incorrect Relay Settings Caused by Less Than Adequate Questioning Attitude, Validation of Assumptions, and lnterface/Guidance",['Unclassified'],['Unclassified']
+252023003.0,Vogtle 3,04/10/2023,06/08/2023,Automatic Reactor Protection System Actuation During Startup Testing due to Incorrect Turbine Control Valve Setting,['Unclassified'],['Equipment and Mechanical Failures']
+252023004.0,Vogtle 3,05/02/2023,06/30/2023,Manual Reactor Protection System Actuation due to Condenser Flanges Not Removed During Construction,['Unclassified'],['Unclassified']
+252023005.0,Vogtle 3,07/09/2023,09/06/2023,Automatic Reactor Protection System Actuation During Startup Testing due to Inadequate Turbine Trip Logic,['Design or Maintenance Issues'],['Unclassified']
+252023006.0,Vogtle 3,07/21/2023,09/19/2023,"Automatic Reactor Protection System Actuation During Startup Testing due to Auto Reactive Power Regulator Being Active 
+While in Island Mode Operation",['Unclassified'],['Electrical and Power Issues']
+292021001.0,Yankee-Rowe,11/19/2021,01/12/2022,Compensatory Measure Not Established for a Momentary I/O Board Communication Loss,['Unclassified'],['Unclassified']
+2192022001.0,Oyster Creek,05/07/2021,01/21/2022,Compensatory Measures Not Implemented Per Site's Physical Security Plan due to Multiplexer (MUX) Failure,['Unclassified'],['Equipment and Mechanical Failures']
+2202021001.0,Nine Mile Point 1,03/12/2021,05/11/2021,Average Power Range Monitors Declared Inoperable due to Trip of Reactor Recirculation Pump 13,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+2202021002.0,Nine Mile Point 1,09/25/2021,11/19/2021,Isolation of Both Emergency Condensers due to Loss of UPS 162A,['Unclassified'],['Environmental and Containment Issues']
+2202023001.0,Nine Mile Point 1,03/18/2023,08/11/2023,"Supplement to LER 2023-001-00, Indication on the N2E Dissimilar Metal Weld Exceeding ASME Acceptance Criteria",['Unclassified'],['Unclassified']
+2202023002.0,Nine Mile Point 1,10/21/2023,12/15/2023,Average Power Range Monitors Declared Inoperable due to Trip of Reactor Recirculation Pump 12,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+2372022001.0,Dresden 2,07/12/2022,10/28/2022,Unit 2 Reactor Scram due to Turbine Trip on High Reactor Water Level Caused by Feedwater Regulating Valve Failure,['Unclassified'],['Equipment and Mechanical Failures']
+2372022002.0,"Dresden 2, Dresden 3",07/29/2022,10/28/2022,Ultimate Heat Sink Declared Inoperable due to River Grass Accumulation,['Unclassified'],['Unclassified']
+2442021001.0,Ginna,06/02/2021,11/18/2021,"Service Water Pump ""A"" Declared Inoperable due to Winding Failure Following Replacement Resulting in Violation of Technical Specifications LCO 3.7.8.A (One Service Water Pump Inoperable Greater than 14 days)",['Unclassified'],['Equipment and Mechanical Failures']
+2442021002.0,Ginna,10/04/2021,12/02/2021,Valid Auxiliary Feedwater System Actuation on Lowered Steam Generator Level due to Failure to Control Main Feed Water Flow and Delay in Closing Main Steam Isolation Valves,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues', 'Environmental and Containment Issues']"
+2442023001.0,Ginna,04/11/2023,06/07/2023,Vital Bus 17 Failed to Load onto Emergency Diesel Generator B During Load / Safeguard Sequence Testing; Corroded Breaker Shunt Trip Attachment Plunger Found Which Indicated an Earlier Violation of Technical Specifications 3.8.1,['Unclassified'],['Electrical and Power Issues']
+2442023002.0,Ginna,09/09/2023,11/08/2023,Overtemperature Delta Temperature Reactor Protection System and Auxiliary Feedwater System Actuations on due to 100% Load Rejection Caused by Turbine Overspeed Circuit Card Failure (Parts Quality Initiative Inspection Bypassed),['Systemic or Policy Failures'],['Equipment and Mechanical Failures']
+2442023003.0,Ginna,10/12/2023,03/07/2024,"Supplement to LER 2023-003-00, Manual Reactor Trip due to Degraded Condenser Vacuum from Lowering Main Steam to Air 
+Ejectors and Auxiliary Feedwater Actuation due to Low Steam Generator Level",['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+2492021001.0,Dresden 3,10/16/2021,06/14/2022,Unit 3 Reactor Scram due to Main Power Transformer Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+2502021001.0,Turkey Point 3,03/01/2021,04/29/2021,Automatic Reactor Trip due to Reactor Trip Breaker Cell Switch Malfunction,['Unclassified'],['Operational Incidents']
+2502021002.0,"Turkey Point 3, Turkey Point 4",04/15/2021,06/03/2021,Unrecognized Technical Specification Surveillance Requirement Non-Compliance,['Unclassified'],['Unclassified']
+2502021003.0,Turkey Point 3,10/09/2021,12/02/2021,Auxiliary Feedwater Actuation due to Feedwater Isolation During Plant Shutdown,['Unclassified'],"['Operational Incidents', 'Environmental and Containment Issues']"
+2502021004.0,Turkey Point 3,11/12/2021,01/06/2022,Through-Wall Leakage from Core Exit Thermocouple Tubing,['Unclassified'],['Environmental and Containment Issues']
+2502023001.0,Turkey Point 3,04/15/2023,06/14/2023,RCS Pressure Boundary Degraded,['Unclassified'],['Unclassified']
+2502023002.0,Turkey Point 3,08/04/2023,10/02/2023,Manual Reactor Trip due to Steam Generator Feedwater Regulating Valve Positioner Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues', 'Operational Incidents']"
+2502023003.0,Turkey Point 3,09/22/2023,11/20/2023,Grid Disturbance in Switchyard Causes Automatic Reactor Trip,['Unclassified'],['Operational Incidents']
+2502023004.0,Turkey Point 3,10/24/2023,12/13/2023,Unplanned Automatic Scram During RPS Testing,['Unclassified'],['Unclassified']
+2502024002.0,Turkey Point 3,02/07/2021,07/10/2024,Condition Prohibited by Technical Specifications,['Unclassified'],['Unclassified']
+2542021001.0,Quad Cities 1,03/19/2021,05/18/2021,Automatic Actuation of Emergency Diesel Generator due to Transformer Maintenance,['Design or Maintenance Issues'],['Electrical and Power Issues']
+2542022001.0,Quad Cities 1,12/01/2021,01/26/2022,High Pressure Coolant Injection System Inoperable due to Gland Seal System Malfunction,['Unclassified'],['Unclassified']
+2542022002.0,Quad Cities 1,05/10/2022,07/08/2022,Low Pressure Coolant Injection Manually Isolated due to Valve Test Equipment Issue,['Unclassified'],['Equipment and Mechanical Failures']
+2542022003.0,"Quad Cities 1, Quad Cities 2",07/04/2022,09/01/2022,Both Trains of Standby Gas Treatment Inoperable due to Blockage in the Common Discharge Line,['Unclassified'],['Unclassified']
+2552021001.0,Palisades,06/16/2021,08/13/2021,Atmospheric Steam Dump Valves Inoperable due to Relay Failure,['Unclassified'],['Equipment and Mechanical Failures']
+2592021001.0,"Browns Ferry 1, Browns Ferry 2",03/03/2021,07/06/2022,480 Volt Load Shed Logic Inoperable Longer than Allowed by Technical Specifications due to Failed Relay,['Unclassified'],['Unclassified']
+2592022001.0,"Browns Ferry 1, Browns Ferry 2",01/15/2022,05/31/2022,Pressure Boundary Leak on Residual Heat Removal System Low Pressure Coolant Injection Test Line,['Unclassified'],['Unclassified']
+2592022002.0,Browns Ferry 1,07/12/2022,10/12/2023,High Pressure Coolant Injection System Declared Inoperable due to a Corroded Actuator,['Unclassified'],['Unclassified']
+2592022003.0,Browns Ferry 1,12/06/2022,02/06/2023,Main Steam Relief Valves Lift Settings Outside of Technical Specifications Required Setpoints,['Unclassified'],['Equipment and Mechanical Failures']
+2592023001.0,Browns Ferry 1,01/24/2023,06/13/2023,High Pressure Coolant Injection System Inoperable due to a Torn Valve Diaphragm,['Unclassified'],['Equipment and Mechanical Failures']
+2592023002.0,Browns Ferry 1,05/20/2023,07/19/2023,Full Reactor Scram due to an Oscillation Power Range Monitor Confirmation Density Algorithm Trip,['Unclassified'],['Electrical and Power Issues']
+2592023003.0,Browns Ferry 1,01/18/2023,01/29/2024,Standby Liquid Control Inoperable due to Demineralized Water In-leakage,['Unclassified'],['Environmental and Containment Issues']
+2592024001.0,"Browns Ferry 1, Browns Ferry 2, Browns Ferry 3",12/14/2022,07/03/2024,Inoperability of Unit 3 Diesel Generator due to Relay Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+2602021001.0,Browns Ferry 2,04/22/2021,08/20/2021,Inoperability of a TS-required Main Steam Isolation Valve,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+2602021002.0,Browns Ferry 2,06/03/2021,08/02/2021,Main Steam Relief Valves Lift Settings Outside of Technical Specifications Required Setpoints,['Unclassified'],['Equipment and Mechanical Failures']
+2602023001.0,Browns Ferry 2,02/18/2023,09/18/2023,Pressure Boundary Leak on Recirculation Pump Discharge Isolation Valve Drain Line due to Fatigue Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+2602023002.0,Browns Ferry 2,06/05/2023,08/04/2023,Main Steam Relief Valves Lift Settings Outside of Technical Specifications Required Setpoints,['Unclassified'],['Equipment and Mechanical Failures']
+2602024001.0,Browns Ferry 2,12/18/2023,04/17/2024,Secondary Containment Isolation Valve Inoperable due to Mechanical Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+2612023001.0,Robinson 2,06/12/2023,08/10/2023,Condition Prohibited by Technical Specification due to Missed Entry into Limiting Condition for Operation,['Unclassified'],['Unclassified']
+2612023002.0,Robinson 2,06/22/2023,08/17/2023,Plant Trip During Reactor Protection System Testing,['Unclassified'],['Unclassified']
+2632022001.0,Monticello,05/13/2022,07/07/2022,Loss of Control Room Envelope Operability,['Unclassified'],['Unclassified']
+2632023001.0,Monticello,03/04/2023,05/17/2023,Main Steam Isolation Valve Leakage Exceeds Technical Specification Requirements Due to Stem Scoring,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+2632023002.0,Monticello,09/27/2023,11/13/2023,Reactor Scram and Containment Isolation due to Valve Responses During Main Turbine Control Valve Testing,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+2632023003.0,Monticello,10/07/2023,12/04/2023,Condition Prohibited by Technical Specifications due to Inoperable Main Steam Line Low Pressure Isolation Switch,['Unclassified'],['Environmental and Containment Issues']
+2652022001.0,Quad Cities 2,03/21/2022,05/20/2022,Electromatic Relief Valve 3B Did Not Actuate due to Incorrectly Oriented Plunger Well Plastic Guides,['Unclassified'],['Equipment and Mechanical Failures']
+2652022002.0,Quad Cities 2,07/04/2022,09/01/2022,Manual Scram due to Feedwater Regulator Valve Failure Decreasing Reactor Water Level,['Unclassified'],['Equipment and Mechanical Failures']
+2652022003.0,Quad Cities 2,11/04/2022,12/30/2022,Manual Scram due to Feedwater Regulator Valve Failure Increasing Reactor Water Level,['Unclassified'],['Equipment and Mechanical Failures']
+2652023001.0,Quad Cities 2,08/11/2023,11/30/2023,Turbine Trip and Automatic Reactor Scram due to High Moisture Separator Level,['Unclassified'],['Unclassified']
+2662021001.0,Point Beach 1,07/31/2021,09/28/2021,Main Feedwater Pump Trip Results in Manual Reactor Trip,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+2692022001.0,Oconee 1,11/01/2022,12/21/2022,Ultrasonic Examination Indication Identifies Degraded Reactor Coolant System Pressure Boundary,['Unclassified'],['Unclassified']
+2692022002.0,Oconee 1,11/14/2022,01/12/2023,Reactor Coolant System Pressure Boundary Leak on Reactor Coolant Pump Lower Bearing Thermowell,['Unclassified'],['Equipment and Mechanical Failures']
+2702021001.0,Oconee 2,08/03/2021,10/04/2021,2B Motor Driven Emergency Feedwater Pump Past Inoperability Resulted In Condition Prohibited by Technical Specifications,['Unclassified'],['Equipment and Mechanical Failures']
+2702021002.0,"Oconee 2, Oconee 1",11/27/2021,01/26/2022,Actuation of the Keowee Hydroelectric Station due to Loss of AC Power to the Unit 2 Main Feeder Buses,['Unclassified'],['Electrical and Power Issues']
+2702021003.0,Oconee 2,12/05/2021,02/07/2022,Conditions Prohibited by Technical Specifications due to SSF and PSW Inoperability,['Unclassified'],['Unclassified']
+2702021004.0,Oconee 2,12/09/2021,02/07/2022,More Than One Axial Power Shaping Rod not Aligned Within Technical Specification Limits,['Unclassified'],['Electrical and Power Issues']
+2702021005.0,Oconee 2,12/10/2021,02/08/2022,Unit 2 Automatic Reactor Trip due to Spurious Trip Signal Concurrent with System Testing,['Unclassified'],['Operational Incidents']
+2702022001.0,Oconee 2,02/05/2022,04/06/2022,Unit 2 Automatic Reactor Trip due to Loss of Power to Reactor Coolant Pumps,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues', 'Operational Incidents']"
+2702022002.0,Oconee 2,02/13/2022,04/14/2022,Automatic Actuation of Emergency Feedwater System due to Main Feedwater Pump Malfunction,['Unclassified'],['Equipment and Mechanical Failures']
+2702022003.0,Oconee 2,02/21/2022,04/21/2022,Manual Reactor Trip due to Main Feedwater Control Valve Positioner Malfunction,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+2702023001.0,Oconee 2,04/17/2023,02/29/2024,"Inappropriate Procedural Guidance for Planned Online Maintenance Results in Event or Condition That Could Have Prevented 
+Fulfillment of a Safety Function",['Design or Maintenance Issues'],['Unclassified']
+2752023001.0,Diablo Canyon 1,09/30/2023,11/22/2023,Unit 1 Manual Reactor Trip at Low Power,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+2772021001.0,Peach Bottom 2,04/29/2021,06/24/2021,High Pressure Coolant Injection System Declared Inoperable Due to Instrument Power Inverter Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+2772021002.0,Peach Bottom 2,05/18/2021,07/16/2021,Safety Relief Valve Inoperability due to Nitrogen Leakage from Braided Hose Wear,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+2772021003.0,Peach Bottom 2,11/14/2021,01/12/2022,Manual Reactor Scram due to Degrading Condenser Vacuum,['Unclassified'],['Unclassified']
+2772022001.0,Peach Bottom 2,05/16/2022,07/15/2022,Automatic Reactor Scram due to Loss of Power to Both RPS Buses,['Unclassified'],['Electrical and Power Issues']
+2772022002.0,Peach Bottom 2,10/17/2022,12/15/2022,Automatic Depressurization System Safety Relief Valve Actuator Diaphragm Degraded,['Unclassified'],['Equipment and Mechanical Failures']
+2782023001.0,Peach Bottom 3,09/09/2023,11/07/2023,Standby Liquid Control Pump Inoperable for Greater than LCO Window due to Gas Intrusion,['Unclassified'],['Equipment and Mechanical Failures']
+2782023002.0,Peach Bottom 3,10/16/2023,12/14/2023,Main Steam Isolation Valves Stroke Times Exceed Technical Specification Limit,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+2802021001.0,"Surry 1, Surry 2",09/13/2021,11/11/2021,Unanalyzed Condition due to Appendix R Concern Identified with Cable Separation,['Unclassified'],['Unclassified']
+2802022001.0,"Surry 1, Surry 2",03/22/2022,05/18/2022,Failure of Two Intake Canal Level Probes due to Biofouling,['Unclassified'],['Equipment and Mechanical Failures']
+2802022002.0,"Surry 1, Surry 2",07/25/2022,09/15/2022,Failure of Unit 1 Emergency Diesel Generator Results in an Operation or Condition Prohibited by Technical Specifications,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+2802022003.0,Surry 1,09/15/2022,11/11/2022,Loss of Emergency Switchgear Room Cooling due to Use of Incorrect Air Handler Fan V-Belts,['Unclassified'],['Unclassified']
+2822021001.0,"Prairie Island 1, Prairie Island 2",01/26/2021,03/22/2021,12 Diesel Driven Cooling Water Pump Auto Start due to Low System Pressure,['Unclassified'],['Equipment and Mechanical Failures']
+2822021002.0,"Prairie Island 1, Prairie Island 2",10/17/2021,12/13/2021,Loss of Electrical Bus Results in 121 Motor Driven Cooling Water Pump Auto Start,['Unclassified'],['Equipment and Mechanical Failures']
+2822022001.0,"Prairie Island 1, Prairie Island 2",08/15/2022,10/17/2022,Fuel Assemblies Incorrectly Placed in Spent Fuel Pool,['Unclassified'],['Unclassified']
+2822023001.0,"Prairie Island 1, Prairie Island 2",10/19/2023,03/21/2024,"Reactor Trip, Auxiliary Feedwater and Emergency Service Water System Actuation due to Electrical Transient in DC Control Power Cables",['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+2872022001.0,Oconee 3,01/26/2022,03/28/2022,Response Actions Resulted in Brief Inoperability of Both Onsite and Offsite Emergency AC Power Paths,['Unclassified'],['Electrical and Power Issues']
+2872022002.0,Oconee 3,05/06/2022,07/01/2022,Automatic Actuation of Emergency Feedwater System due to Malfunctioning Startup Feedwater Control Valve,['Unclassified'],['Equipment and Mechanical Failures']
+2872023001.0,Oconee 3,01/08/2023,03/09/2023,Condition Prohibited by Technical Specifications due to Isolation Valve Exceeding Inservice Testing Leakage Requirements,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+2872023002.0,Oconee 3,06/23/2023,02/29/2024,Passive Containment Isolation Device Inoperability Results in Operation or Condition Prohibited by Technical Specifications,['Unclassified'],['Environmental and Containment Issues']
+2962022001.0,Browns Ferry 3,05/10/2022,07/11/2022,Main Steam Relief Valves Lift Settings Outside of Technical Specifications Required Setpoints,['Unclassified'],['Equipment and Mechanical Failures']
+2962022002.0,Browns Ferry 3,10/18/2022,12/19/2022,Both Standby Liquid Control Subsystems Inoperable due to an Insufficient Boron Injection Rate,['Unclassified'],['Unclassified']
+2962022003.0,Browns Ferry 3,12/02/2022,07/31/2023,Pressure Boundary Leak on Residual Heat Removal System Low Pressure Coolant Injection Test Line due to Fatigue Failure,['Unclassified'],['Equipment and Mechanical Failures']
+2982021001.0,Cooper Station,02/09/2021,04/12/2021,Secondary Containment Differential Pressure Perturbation Exceeds Technical Specifications,['Unclassified'],['Environmental and Containment Issues']
+2982021002.0,Cooper Station,03/20/2021,05/17/2021,Valve Test Failures Result in Condition Prohibited by Technical Specifications,['Unclassified'],['Equipment and Mechanical Failures']
+2982021003.0,Cooper Station,10/28/2021,12/27/2021,Failure of High Pressure Coolant Injection Flow Indicating Switch Results in Condition Prohibited by Technical Specifications,['Unclassified'],['Equipment and Mechanical Failures']
+2982022001.0,Cooper Station,05/23/2022,07/20/2022,Secondary Containment Differential Pressure Perturbation Exceeds Technical Specifications Limit,['Unclassified'],['Environmental and Containment Issues']
+2982022002.0,Cooper Station,10/22/2022,06/29/2023,Manual Core Spray Injection to Restore Skimmer Surge Tank Level,['Unclassified'],['Unclassified']
+2982022003.0,Cooper Station,11/12/2022,01/11/2023,Actuation of Reactor Protection System Initiates a Full Reactor Scram,['Unclassified'],['Unclassified']
+2982022004.0,Cooper Station,12/16/2022,05/11/2023,Manual Reactor Scram and Group I Isolation due to Main Turbine Bypass Valve Failing Open,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+2982023001.0,Cooper Station,03/08/2023,05/08/2023,Valve Test Failures Result in Condition Prohibited by Technical Specifications,['Unclassified'],['Equipment and Mechanical Failures']
+2982023002.0,Cooper Station,10/22/2023,06/06/2024,Secondary Containment Differential Pressure Perturbation Exceeds Technical Specifications,['Unclassified'],['Environmental and Containment Issues']
+2982024002.0,Cooper Station,08/27/2022,03/04/2024,Technical Specifications Prohibited Condition for Inoperable Service Water Booster Pump,['Unclassified'],['Equipment and Mechanical Failures']
+3062021001.0,Prairie Island 2,10/03/2021,11/18/2021,22 Turbine Driven Auxiliary Feedwater Pump Actuation Signal Due to Procedure Error,['Human Factors and Errors'],['Equipment and Mechanical Failures']
+3062023001.0,Prairie Island 2,05/27/2023,07/18/2023,2GT/XFMR Lockout due to Failure of Lightning Arrester Caused Unit 2 Reactor Trip,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3112022001.0,Salem 2,12/24/2022,02/21/2023,Invalid Safety Injection and Valid Reactor Trip due to Inaccurate Steam Generator Pressure Indications,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+3132021001.0,Arkansas 1,03/14/2021,05/13/2021,Reactor Manual Trip due to Temporary Loss of Non-Vital 4160 Volt Bus,['Unclassified'],['Unclassified']
+3132021002.0,Arkansas 1,11/29/2021,01/27/2022,Automatic Reactor Trip due to High Reactor Coolant System Pressure,['Unclassified'],['Operational Incidents']
+3132023001.0,Arkansas 1,02/14/2023,04/14/2023,Automatic Reactor Trip due to Reactor Protection System Actuation,['Unclassified'],['Operational Incidents']
+3132023002.0,Arkansas 1,04/11/2023,06/09/2023,Reactor Protection System Underpower Relay Test Failure Resulting in Condition Prohibited by Technical Specifications,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+3152021001.0,"Cook 1, Cook 2",02/26/2021,04/29/2021,Condition Prohibited by Technical Specifications due to Loss of Train B Reserve Power,['Unclassified'],['Electrical and Power Issues']
+3152022001.0,Cook 1,05/24/2022,07/21/2022,Manual Reactor Trip Following Manual Turbine Trip due to High Vibrations on Main Turbine,['Unclassified'],['Operational Incidents']
+3152022002.0,Cook 1,07/20/2022,09/19/2022,Unit 1 Ice Condenser Door Inoperable Resulting in a Condition Prohibited by Technical Specifications,['Unclassified'],['Unclassified']
+3152022003.0,Cook 1,08/28/2022,02/22/2023,Automatic Reactor Trip on Loss of Flow due to Reactor Coolant Pump Trip,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3152023001.0,"Cook 1, Cook 2",07/31/2023,09/28/2023,Two Trains of Fuel Handling Area Exhaust Ventilation Inoperable,['Unclassified'],['Unclassified']
+3152023002.0,Cook 1,10/15/2023,12/12/2023,Failure of Unit 1 West Auxiliary Feedwater Pump to Restart During Load Sequencer Testing,['Unclassified'],['Equipment and Mechanical Failures']
+3162021001.0,Cook 2,04/15/2021,06/10/2021,Main Steam Safety Valve Setpoints Found Outside Technical Specifications Limits,['Unclassified'],['Equipment and Mechanical Failures']
+3162021002.0,Cook 2,06/22/2021,08/18/2021,Manual Reactor Trip due to an Unisolable Steam Leak,['Unclassified'],['Operational Incidents']
+3162022001.0,Cook 2,11/10/2022,01/04/2023,Automatic Reactor Trip due to Steam Generator High-High Level,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+3172023001.0,Calvert Cliffs 1,09/29/2023,11/27/2023,Condition Prohibited by Technical Specifications due to Failure to Sample Diesel Generator Fuel Oil Storage Tank,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+3182021001.0,Calvert Cliffs 2,03/04/2021,04/21/2021,Pressurizer Heater Sleeve Weld Pressure Boundary Leakage Caused by Primary Water Stress Corrosion Cracking,['Unclassified'],['Environmental and Containment Issues']
+3182021002.0,Calvert Cliffs 2,03/21/2021,05/19/2021,Manual Reactor Trip due to Lowering Steam Generator Level Following Main Feedwater Regulating Valve Going Shut,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues', 'Operational Incidents']"
+3182021003.0,Calvert Cliffs 2,08/10/2021,09/23/2021,Auxiliary Feedwater Pump Inoperable due to Improper Reset of Trip Throttle Valve,['Unclassified'],['Equipment and Mechanical Failures']
+3182021004.0,Calvert Cliffs 2,11/21/2021,01/18/2022,Unit 2 Manual Reactor Trip due to Lowering Steam Generator Levels,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+3182022001.0,Calvert Cliffs 2,01/03/2022,03/03/2022,Unit 2 Automatic Reactor Trip due to High Reactor Coolant System Pressure,['Unclassified'],['Operational Incidents']
+3182022002.0,Calvert Cliffs 2,09/14/2022,11/11/2022,Unplanned Safety Injection Actuation Signal due to Human Error,['Human Factors and Errors'],['Unclassified']
+3182022003.0,Calvert Cliffs 2,09/21/2022,11/21/2022,Pressurizer Safety Valve As-Found Settings (Low) Outside Technical Specification Limits due to Setpoint Drift,['Unclassified'],['Equipment and Mechanical Failures']
+3182023001.0,Calvert Cliffs 2,03/11/2023,09/29/2023,Condition Prohibited by Technical Specifications due to Inoperable Nuclear Instrumentation at Very Low Power,['Unclassified'],['Electrical and Power Issues']
+3182023002.0,Calvert Cliffs 2,11/07/2023,01/08/2024,Automatic Reactor Trip from Reactor Protection System Actuation due to Loss of Unit Service Transformer,['Unclassified'],['Operational Incidents']
+3182023003.0,Calvert Cliffs 2,11/08/2023,01/08/2024,Manual Actuation of Auxiliary Feedwater System due to 22 Steam Generator Feedwater Pump Trip,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues', 'Operational Incidents']"
+3182023004.0,Calvert Cliffs 2,11/16/2023,04/12/2024,Automatic Reactor Trip from Reactor Protection System Actuation due to Loss of Unit Service Transformer,['Unclassified'],['Operational Incidents']
+3212021001.0,Hatch 1,08/03/2021,10/01/2021,Automatic Reactor Scram And Containment Isolation On Low Reactor Water Level Due To Trip Of Both Reactor Feed Pumps,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+3212021002.0,Hatch 1,08/03/2021,10/01/2021,Low Pressure Coolant Injection Inoperable Longer than the Allowed Technical Specification Completion Time,['Unclassified'],['Unclassified']
+3212021003.0,Hatch 1,09/08/2021,11/01/2021,Unit 1 High Pressure Coolant Injection System Discharge Valve Failure to Open,['Unclassified'],['Equipment and Mechanical Failures']
+3212022001.0,Hatch 1,12/29/2021,02/18/2022,Manual Reactor Scram due to Reactor Pressure Perturbations,['Unclassified'],['Unclassified']
+3232021001.0,Diablo Canyon 2,07/22/2021,09/20/2021,Emergency Diesel Generator Declared Inoperable due to Low Frequency Condition Discovery During Routine Surveillance,['Unclassified'],['Electrical and Power Issues']
+3232021002.0,Diablo Canyon 2,10/15/2021,12/14/2021,Unit 2 Manual Reactor Trip Due to Increased Water Level in a Feedwater Heater,['Unclassified'],['Operational Incidents']
+3232022001.0,Diablo Canyon 2,10/23/2022,12/21/2022,Unit 2 Reactor Coolant System Pressure Boundary Degradation,['Unclassified'],['Unclassified']
+3242023001.0,Brunswick 2,05/23/2023,07/17/2023,Two Main Steam Line Safety Relief Valves Inoperable,['Unclassified'],['Equipment and Mechanical Failures']
+3252021001.0,"Brunswick 1, Brunswick 2",12/06/2021,01/20/2022,Automatic Specified System Actuation due to Loss of Power to Emergency Bus E3,['Unclassified'],['Electrical and Power Issues']
+3252022001.0,Brunswick 1,07/15/2022,09/12/2022,High Pressure Coolant Injection (HPCI) Inoperable,['Unclassified'],['Unclassified']
+3252023001.0,Brunswick 1,04/20/2023,06/15/2023,Loss of Redundant Power Supply Operation Causes Turbine Trip and Subsequent Reactor Scram,['Unclassified'],['Electrical and Power Issues']
+3272021001.0,Sequoyah 1,05/24/2021,07/21/2021,Reactor Trip on High Neutron Flux Rate due to Dropped Control Rods,['Unclassified'],['Operational Incidents']
+3272021003.0,"Sequoyah 1, Sequoyah 2",08/20/2021,10/19/2021,Exceeded Breach Margin Renders Both Trains of the Auxiliary Building Gas Treatment System Inoperable,['Unclassified'],['Unclassified']
+3272022001.0,Sequoyah 1,07/22/2022,09/15/2022,Failure of 1B-B Centrifugal Charging Pump Results in Condition Prohibited by Technical Specifications,['Unclassified'],['Equipment and Mechanical Failures']
+3272022002.0,Sequoyah 1,10/22/2022,12/15/2022,Turbine Trip Function Inoperable due to Slow to Close Turbine Throttle Valve,['Unclassified'],['Equipment and Mechanical Failures']
+3282021001.0,Sequoyah 2,07/25/2021,09/22/2021,Ice Bed Inoperable due to Exceeding Surveillance Requirement Frequency,['Unclassified'],['Unclassified']
+3282021002.0,Sequoyah 2,11/08/2021,01/06/2022,Turbine Trip Function Inoperable due to Slow to Close Turbine Throttle Valve,['Unclassified'],['Equipment and Mechanical Failures']
+3282023001.0,Sequoyah 2,04/11/2023,06/07/2023,Inoperable Ice Condenser Intermediate Deck Doors Results in Condition Prohibited by Technical Specifications,['Unclassified'],['Unclassified']
+3332021001.0,FitzPatrick,08/24/2021,01/10/2023,Inadequate Protection Devices for DC Motor Field Shunt Cables Through Separate Fire Areas,['Design or Maintenance Issues'],['Unclassified']
+3332021002.0,FitzPatrick,11/18/2021,01/14/2022,Automatic High Pressure Coolant Injection (HPCI) System Function Prevented by Control Circuit Relay Failure,['Unclassified'],['Equipment and Mechanical Failures']
+3332021003.0,FitzPatrick,11/18/2021,01/14/2022,"LER: 2021-003, Air Solenoid Valve Condition Results in Main Steam Isolation Valve (MSIV) Fast Closure Test Failure",['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+3332022001.0,FitzPatrick,04/29/2022,06/28/2022,"LER: 2022-001, Exhaust Drain Pot Line Filled with Water up to HPCI Turbine due to Relay Failure",['Unclassified'],['Equipment and Mechanical Failures']
+3332022002.0,FitzPatrick,09/26/2022,01/31/2023,Mode Switch Failed to Bypass Low Main Steam Line in Mode 2 Resulting in MSIV and RPS System Actuation,['Unclassified'],['Unclassified']
+3332022003.0,FitzPatrick,10/01/2022,09/08/2023,Safety Relief Valves Lift Setpoint Found Out of Tolerance Low,['Unclassified'],['Equipment and Mechanical Failures']
+3332023001.0,FitzPatrick,02/19/2023,04/19/2023,Primary Containment Isolation System Isolation due to Initiation of Main Condenser Fire Protection Foam System,['Unclassified'],['Environmental and Containment Issues']
+3332023002.0,FitzPatrick,04/14/2023,08/14/2023,Reactor Protection System Electric Power Monitoring System Trip Caused Primary Containment Isolation,['Unclassified'],"['Electrical and Power Issues', 'Environmental and Containment Issues']"
+3332023003.0,FitzPatrick,04/24/2023,06/23/2023,Emergency Diesel Generator Fuel Oil Supply Procedure Error “B” Subsystem,['Human Factors and Errors'],['Electrical and Power Issues']
+3332023004.0,FitzPatrick,04/12/2023,12/01/2023,Misaligned Spacer Prevented Tie Breaker Closing Coil Armature Operation on a Magne-Blast for EDG A Subsystem,['Unclassified'],['Unclassified']
+3342021001.0,Beaver Valley 1,05/08/2021,07/06/2021,Containment Isolation Valve Found Restrained Open Resulting in Condition Prohibited by Technical Specifications,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+3342022001.0,Beaver Valley 1,06/15/2022,08/10/2022,Manual Reactor Trip and Auxiliary Feedwater Actuation due to Heater Drain System Valve Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3352021001.0,St. Lucie 1,12/10/2021,02/04/2022,Manual Reactor Trip due to Insufficient Feed Flow to Steam Generators,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+3352022002.0,St. Lucie 1,08/31/2022,10/28/2022,Condition Prohibited by Technical Specifications,['Unclassified'],['Unclassified']
+3352022003.0,St. Lucie 1,09/02/2022,10/28/2022,Manual Reactor Trip due to Loss of Feedwater Pump,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3362021001.0,Millstone 2,07/15/2021,09/23/2021,Incorrectly Placed Spent Fuel Assemblies in Unit 2 Spent Fuel Pool,['Unclassified'],['Unclassified']
+3362021002.0,Millstone 2,11/06/2021,01/05/2022,Failed Check Valve Resulting in an Unanalyzed Condition and Operation Prohibited by Technical Specifications,['Unclassified'],['Equipment and Mechanical Failures']
+3362022001.0,Millstone 2,01/20/2022,03/18/2022,Structural Integrity of Reactor Building Component Cooling Water Cracked Threaded Fitting Could not be Established Resulting in System Inoperable Longer Than Allowed by Technical Specifications,['Unclassified'],['Unclassified']
+3362023001.0,Millstone 2,05/09/2023,07/07/2023,"Structural Integrity of ""A"" Train Service Water Header Piping Could Not Be Demonstrated Causing the Unit to Operate In a Condition Prohibited by Technical Specifications",['Unclassified'],['Unclassified']
+3362023002.0,Millstone 2,07/06/2023,08/31/2023,Failed Check Valve Resulted in an Unanalyzed Condition,['Unclassified'],['Equipment and Mechanical Failures']
+3382021001.0,North Anna 1,05/06/2021,07/01/2021,Manual Reactor Trip on Degrading Condenser Vacuum due to Piping Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3382021002.0,"North Anna 1, North Anna 2",07/22/2021,09/17/2021,Unanalyzed Condition due to App R Concern Identified with Cable Separation,['Unclassified'],['Unclassified']
+3382022001.0,North Anna 1,04/14/2022,09/06/2022,Automatic Reactor Trip During Control Rod Operability Testing,['Unclassified'],['Operational Incidents']
+3392023001.0,North Anna 2,10/03/2023,11/30/2023,Reactor Coolant Pressure Boundary Leak due to Poor Weld Workmanship,['Unclassified'],['Unclassified']
+3412021001.0,Fermi 2,05/03/2021,07/01/2021,Unrecognized Impact of Opening of Barrier Doors on High Energy Line Break Analysis,['Unclassified'],['Unclassified']
+3412021002.0,Fermi 2,08/22/2021,03/15/2022,Unplanned Inoperability of High Pressure Coolant Injection System due to an Inverter Circuit Failure,['Unclassified'],['Equipment and Mechanical Failures']
+3412021003.0,Fermi 2,06/03/2021,12/29/2021,High Pressure Coolant Injection Inoperable due to Contact Oxidation,['Unclassified'],['Unclassified']
+3412022001.0,Fermi 2,02/04/2022,04/04/2022,Reactor Scram on Low Reactor Pressure Vessel Level,['Unclassified'],['Unclassified']
+3412022002.0,Fermi 2,05/11/2022,07/06/2022,Unexpected HPCI Turbine Trip,['Unclassified'],['Unclassified']
+3412022003.0,Fermi 2,06/24/2022,08/23/2022,Turbine Trip and Subsequent Reactor Trip due to Mayflies,['Unclassified'],['Operational Incidents']
+3412022004.0,Fermi 2,06/27/2022,10/31/2022,"Containment Isolation Valve Actuator Found Disconnected from Its Bonnet Resulting in Condition Prohibited by Technical 
+Specification",['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+3412023001.0,Fermi 2,03/23/2023,06/23/2023,Loss of Mechanical Draft Cooling Tower Fan Brakes During High Speeds Leads to Loss of Safety Function and Inoperability,['Unclassified'],['Unclassified']
+3412023002.0,Fermi 2,07/21/2023,09/15/2023,Technical Specification Completion Time Exceeded Due to Repairs on the MDCT Fan D,['Unclassified'],['Unclassified']
+3412023003.0,Fermi 2,08/20/2023,10/18/2023,Reactor Pressure Boundary Leakage at Socket Weld on Reactor Recirculation Sample Line Caused by Fatigue Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+3462021001.0,Davis-Besse,02/12/2021,04/13/2021,Emergency Diesel Generator Speed Switch Failure due to Direct Current System Ground,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+3462021002.0,Davis-Besse,06/22/2021,08/23/2021,Failure of Auxiliary Feedwater Rooms Interconnecting Door to Latch due to Worn Interlock,['Unclassified'],['Equipment and Mechanical Failures']
+3462021003.0,Davis-Besse,07/08/2021,09/07/2021,Reactor Trip due to Failed Uninterruptible Power Supply and Steam Feedwater Rupture Control System Actuations,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+3462022001.0,Davis-Besse,04/04/2022,08/16/2022,Plant Heatup with Inoperable Decay Heat Pump due to Oil Leak Induced by Constant Level Oiler,['Unclassified'],['Equipment and Mechanical Failures']
+3462022002.0,Davis-Besse,12/23/2022,02/20/2023,Strong Winds Result in Ultimate Heat Sink Low Water Level,['Unclassified'],['Unclassified']
+3482021001.0,Farley 1,04/22/2021,06/21/2021,Automatic Reactor Trip due to Turbine Generator Trip,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+3482022001.0,Farley 1,08/03/2022,09/30/2022,Outdated Relay Settings Resulted in an Automatic Reactor Trip after a Floor Tile was Dropped in High Voltage Switch House,['Unclassified'],['Operational Incidents']
+3482023001.0,Farley 1,02/01/2023,03/30/2023,Automatic Reactor Trip due to DC Ground on Turbine Trip Solenoid,['Unclassified'],['Operational Incidents']
+3482023002.0,Farley 1,10/02/2023,11/29/2023,Residual Heat Removal Pump Inoperable for Longer Than Allowed by Technical Specifications,['Unclassified'],['Equipment and Mechanical Failures']
+3482023003.0,Farley 1,02/26/2023,12/07/2023,Unit 1 Emergency Diesel Generator (EDG) Lube Oil Pump Outlet Coupling Leak,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+3522021001.0,Limerick 1,09/23/2021,11/22/2021,Unit 1 HPCI Inoperable due to Remote Shutdown Panel Switch Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3522022001.0,Limerick 1,10/14/2022,12/13/2022,Unit 1 HPCI Inoperable due to Inadvertent Isolation Signal,['Unclassified'],['Environmental and Containment Issues']
+3522023001.0,Limerick 1,02/27/2023,06/26/2023,"Emergency Diesel Generator Lube Oil Pressure Sensing Line Leak Resulting in a Condition Prohibited by Technical 
+Specifications",['Unclassified'],['Electrical and Power Issues']
+3542021001.0,Hope Creek,06/14/2021,08/13/2021,Safety Relief Valve (SRV) As-Found Setpoint Failures,['Unclassified'],['Equipment and Mechanical Failures']
+3542022001.0,Hope Creek,01/19/2022,03/18/2022,B EDG Inoperable Resulting in a Condition Prohibited by Technical Specifications,['Unclassified'],['Unclassified']
+3542022002.0,Hope Creek,10/28/2022,01/18/2023,Inoperable Isolation Actuation Instrumentation Caused by Failure to Remove Electrical Jumper,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+3542023001.0,Hope Creek,04/30/2023,09/25/2023,Technical Specification Required Shutdown due to Declaring the Suppression Chamber and Primary Containment Inoperable,['Unclassified'],"['Operational Incidents', 'Environmental and Containment Issues']"
+3542023002.0,Hope Creek,05/04/2023,10/20/2023,Shutdown Margin Less than Expected Resulting in a Condition Prohibited by Technical Specifications,['Unclassified'],['Operational Incidents']
+3542023003.0,Hope Creek,12/14/2023,03/19/2024,Inadvertent Main Turbine Control Valve Closure Caused Reactor Scram,['Unclassified'],['Equipment and Mechanical Failures']
+3642023001.0,Farley 2,08/01/2023,09/28/2023,Pressurizer Code Safety Valve Lift Pressure Outside of Technical Specifications Limits,['Unclassified'],['Equipment and Mechanical Failures']
+3642023002.0,Farley 2,10/03/2023,11/30/2023,Main Steam Safety Valve Lift Pressure Outside of Technical Specifications Limits due to Setpoint Drift,['Unclassified'],['Equipment and Mechanical Failures']
+3642023003.0,Farley 2,10/24/2023,12/07/2023,Pressurizer Code Safety Valve Lift Pressure Outside of Technical Specifications Limits,['Unclassified'],['Equipment and Mechanical Failures']
+3642024001.0,Farley 2,11/14/2023,01/11/2024,Manual Reactor Trip due to Rising Steam Generator Levels,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+3662023001.0,Hatch 2,02/07/2023,04/05/2023,Primary Containment Penetration Exceeded Maximum Allowable Primary Containment Leakage Rate (La),['Unclassified'],['Environmental and Containment Issues']
+3662023002.0,Hatch 2,03/31/2023,05/26/2023,Unit 2 Manual SCRAM due to Trip of Both Reactor Recirculation Pumps,['Unclassified'],['Equipment and Mechanical Failures']
+3662023003.0,Hatch 2,11/01/2023,12/19/2023,Manual Reactor Trip due to Loss of Feedwater,['Unclassified'],['Operational Incidents']
+3662024001.0,Hatch 2,12/18/2023,02/14/2024,Unit 2 High Pressure Coolant Injection (HPCI) System Inoperable,['Unclassified'],['Unclassified']
+3682021001.0,Arkansas 2,10/01/2021,11/19/2021,Non-Compliance with Technical Specifications Resulting in Lack of Nuclear Instrumentation Audible Indication,['Unclassified'],['Unclassified']
+3682021002.0,Arkansas 2,10/04/2021,12/01/2021,Material Defect in Primary Coolant System that Cannot be Found Acceptable Under American Society of Mechanical Engineers  Section XI,['Unclassified'],['Unclassified']
+3692022001.0,"McGuire 1, McGuire 2",06/21/2022,08/18/2022,Both Control Room Area Chilled Water System Trains Inoperable due to Human Error,['Human Factors and Errors'],['Unclassified']
+3692023001.0,McGuire 1,10/18/2023,12/13/2023,Automatic Actuation of the 1A Motor Driven Auxiliary Feedwater Pump due to Human Error,['Human Factors and Errors'],['Equipment and Mechanical Failures']
+3702021001.0,McGuire 2,09/13/2021,11/10/2021,Valid Actuations of the Unit 2 B Train Emergency AC Power System and B Train Auxiliary Feedwater System,['Unclassified'],['Electrical and Power Issues']
+3702022001.0,McGuire 2,02/18/2022,04/19/2022,Valid Actuation of the Unit 2 Reactor Protection System and Auxiliary Feedwater System,['Unclassified'],['Unclassified']
+3702023001.0,McGuire 2,04/02/2023,05/31/2023,Manual Actuation of the Unit 2 Motor Driven Auxiliary Feedwater Pumps,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3732022001.0,LaSalle 1,02/04/2022,05/27/2022,Turbine Stop Valve Limit Switch Failure due to Lubricant Degradation,['Unclassified'],['Equipment and Mechanical Failures']
+3732022003.0,"LaSalle 1, LaSalle 2",05/20/2022,12/28/2022,Main Control Room and Auxiliary Electric Room HVAC Declared Inoperable due to Multiple Component Failures,['Unclassified'],['Equipment and Mechanical Failures']
+3732022004.0,"LaSalle 1, LaSalle 2",11/04/2022,12/21/2022,Both Trains of Main Control Room and Auxiliary Electric Room HVAC Declared Inoperable due to Compressor Trips,['Unclassified'],['Unclassified']
+3732023001.0,LaSalle 1,04/17/2023,06/16/2023,Low Pressure Core Spray Inoperable due to Minimum Flow Valve Flow Pressure Switch Failure,['Unclassified'],['Equipment and Mechanical Failures']
+3732023002.0,LaSalle 1,10/18/2023,12/04/2023,Turbine Stop Valve Limit Switch Failure due to Lubricant Degradation,['Unclassified'],['Equipment and Mechanical Failures']
+3742021002.0,LaSalle 2,05/31/2021,05/23/2023,Reactor Protection System Half Scram due to Motor Generator Set Output Breaker Trip,['Unclassified'],['Electrical and Power Issues']
+3742022002.0,LaSalle 2,03/24/2021,05/27/2022,Turbine Stop Valve Limit Switch Failure due to Lubricant Degradation,['Unclassified'],['Equipment and Mechanical Failures']
+3742022003.0,LaSalle 2,09/26/2022,06/16/2023,Manual Scram due to Isophase Bus Duct Fire Followed by 2A RPS Normal Power Supply Trip,['Unclassified'],['Electrical and Power Issues']
+3742023001.0,LaSalle 2,02/17/2023,04/17/2023,Standby Liquid Control Valve Inoperable due to Failed Motor Starter Contactor,['Unclassified'],['Equipment and Mechanical Failures']
+3742023002.0,"LaSalle 2, LaSalle 1",02/24/2023,08/22/2024,Air Circuit Breaker (ACB) Mechanically Operated Contacts (MOC) Switch Failed to Actuate,['Unclassified'],['Unclassified']
+3742023003.0,LaSalle 2,03/04/2023,05/02/2023,Automatic Actuation of Reactor Protection System (RPS),['Unclassified'],['Unclassified']
+3822021002.0,Waterford 3,08/29/2021,11/22/2021,Loss of Offsite Power due to Hurricane Ida,['Unclassified'],['Electrical and Power Issues']
+3822021003.0,Waterford 3,10/18/2021,12/16/2021,Non-Compliance with Technical Specifications due to Failed Ambient Pressure Input,['Unclassified'],['Unclassified']
+3822022001.0,Waterford 3,01/18/2022,02/22/2023,Non-Compliance with Technical Specifications due to Incorrect Procedural Guidance for Radiation Monitors,['Unclassified'],['Unclassified']
+3822022002.0,Waterford 3,03/17/2022,05/13/2022,Operation Prohibited by Technical Specifications Due to Personnel Error,['Human Factors and Errors'],['Unclassified']
+3822022003.0,Waterford 3,04/13/2022,06/13/2022,Operation Prohibited by Technical Specifications due to Radiation Monitor Calibration Error,['Human Factors and Errors'],['Unclassified']
+3822022004.0,Waterford 3,04/24/2022,06/23/2022,Operation Prohibited by Technical Specifications due to Inadequate Radiation Monitor Calibration Procedures,['Design or Maintenance Issues'],['Unclassified']
+3822022005.0,Waterford 3,06/24/2022,08/23/2022,Engineered Safety Features Actuation System Relay Failure Results in Reactor Trip and Emergency Feedwater Actuation,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3822022006.0,Waterford 3,09/08/2022,11/07/2022,Non-Compliance with Technical Specifications due to Incorrect Conversion Factors in Plant Stack and Fuel Handling Building Radiation Monitors,['Unclassified'],['Unclassified']
+3822023001.0,Waterford 3,03/02/2023,05/01/2023,Non-Compliance with Technical Specifications due to Pico-ammeter Circuit Board Fluctuations in Containment High Range Radiation Monitor B,['Unclassified'],['Environmental and Containment Issues']
+3822023002.0,Waterford 3,03/10/2023,05/09/2023,Plant Shutdown Required by Technical Specifications for Unidentified Reactor Coolant System Leakage in Containment,['Unclassified'],"['Operational Incidents', 'Environmental and Containment Issues']"
+3822023003.0,Waterford 3,11/05/2023,12/30/2023,Steam Generator Tube Degradation Indicated by Failed In-Situ Pressure Testing,['Unclassified'],['Electrical and Power Issues']
+3822023004.0,Waterford 3,12/17/2023,02/14/2024,"Non-Compliance with Technical Specifications due to Performing Startup Channel 1 Functional Testing During Fuel 
+Movement",['Unclassified'],['Unclassified']
+3872021001.0,Susquehanna 1,03/09/2021,05/06/2021,Unplanned Inoperability of the High Pressure Coolant Injection (HPCI) System due to a Primary Containment Isolation (PCIV) Valve Failure to Stroke Full Closed On-demand due to an Intermittent Break in the Close Control Circuitry,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+3872021002.0,"Susquehanna 1, Susquehanna 2",04/29/2021,06/28/2021,Inoperability of Computer Room Floor Cooling Fan Caused by Extended Operation with Worn Belts due to Less Than Adequate Preventive Maintenance Replacement Interval,['Design or Maintenance Issues'],['Unclassified']
+3872021003.0,Susquehanna 1,07/21/2021,11/11/2021,Automatic Reactor Scram due to Main Turbine Trip Caused by a ‘C’ Isophase Bus Ground Fault,['Unclassified'],['Unclassified']
+3872021004.0,Susquehanna 1,10/07/2021,03/21/2022,Loss of 1B RHRSW Pump due to Cable Damage During Excavation Activities,['Unclassified'],['Equipment and Mechanical Failures']
+3872021005.0,Susquehanna 1,11/30/2021,03/30/2022,Automatic Reactor Scram due to Turbine Control Valve Fast Closure,['Unclassified'],['Equipment and Mechanical Failures']
+3872022001.0,Susquehanna 1,04/02/2022,08/10/2022,Main Steam Isolation Valve Leakage due to Seating Surfaces Wear and Material Deposits,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+3872022002.0,Susquehanna 1,05/23/2022,12/05/2022,"Automatic Reactor Scram due to Reactor Protection System Actuation on High Reactor Vessel Pressure 
+Signal Following Inadvertent Closure of Inboard Main Steam Isolation Valve",['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+3872023001.0,"Susquehanna 1, Susquehanna 2",03/23/2023,05/22/2023,Inadvertent Contact Between Relay Cover and Relay Trip Contacts Resulted in Automatic Actuation of the ‘B’ Emergency Diesel Generator,['Unclassified'],['Electrical and Power Issues']
+3872023002.0,Susquehanna 1,04/07/2023,06/06/2023,"Unplanned Inoperability of the High Pressure Coolant Injection (HPCI) System due Failure of the HPCI Turbine Stop Valve to Fully Close, Most Likely due to Internal Corrosion and Mechanical Binding of the Valve Hydraulic Drive",['Unclassified'],['Equipment and Mechanical Failures']
+3872023003.0,"Susquehanna 1, Susquehanna 2",09/12/2023,11/09/2023,D Diesel Generator Inoperable due to Clogged Fuel Injectors,['Unclassified'],['Electrical and Power Issues']
+3872023004.0,Susquehanna 1,11/10/2023,08/26/2024,Manual Reactor Scram due to Degraded Main Condenser Vacuum,['Unclassified'],['Unclassified']
+3882021001.0,Susquehanna 2,07/06/2021,03/21/2022,Condition Prohibited by Technical Specifications due to Drift of Reactor Pressure Switch,['Unclassified'],['Unclassified']
+3882021002.0,Susquehanna 2,08/30/2021,02/08/2022,Loss of Secondary Containment due to Failed Differential Pressure Transmitter,['Unclassified'],['Environmental and Containment Issues']
+3882021003.0,Susquehanna 2,10/11/2021,03/24/2022,Automatic Reactor Scram due to Main Turbine Trip Caused by Inadvertent Trip of the Main Generator Output Breakers,['Unclassified'],['Electrical and Power Issues']
+3882021004.0,Susquehanna 2,10/11/2021,11/03/2022,Unit 2 Main Turbine Pressure Regulator Inoperable for Longer Than Allowed by Technical Specifications due to Inadequate Valve Modification,['Design or Maintenance Issues'],['Equipment and Mechanical Failures']
+3882021005.0,Susquehanna 2,12/15/2021,04/11/2022,Condition Prohibited by Technical Specification due to Setpoint Drift Attributed to Age Related Degradation,['Unclassified'],['Unclassified']
+3882022001.0,Susquehanna 2,09/26/2022,11/23/2022,Inadequate Performance of Loss of Safety Determination Resulting in Both Divisions of Core Spray Being Inoperable,['Design or Maintenance Issues'],['Unclassified']
+3882022003.0,"Susquehanna 2, Susquehanna 1",10/22/2022,12/19/2022,Inoperable 13.8kV Startup Transformer due to Misaligned Load Tap Charger Local/Remote Control Switch,['Unclassified'],['Unclassified']
+3892021001.0,St. Lucie 2,01/20/2021,03/10/2021,Automatic Reactor Trip due to a Breaker Failure on the 2B2 480V Motor Control Center,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3892021002.0,St. Lucie 2,09/16/2021,11/10/2021,Foreign Material Exclusion Device Found in Containment Spray System,['Unclassified'],['Environmental and Containment Issues']
+3892022001.0,St. Lucie 2,01/06/2022,03/04/2022,Reactor Shutdown Required by Technical Specifications due to a Misaligned Control Element Assembly,['Unclassified'],['Operational Incidents']
+3892024001.0,St. Lucie 2,12/15/2023,02/13/2024,Safety Injection Tank Vent Line Through Wall Leakage,['Unclassified'],['Environmental and Containment Issues']
+3902021001.0,"Watts Bar 1, Watts Bar 2",03/01/2021,04/20/2021,Control Room Emergency Ventilation System Inoperable due to Main Control Room Door Being Left Open,['Unclassified'],['Unclassified']
+3902023001.0,Watts Bar 1,05/03/2023,09/27/2023,Inadequate 10 CFR 50.59 Results in Failure to Obtain Prior NRC Approval for Condition Prohibited by Technical Specifications,['Design or Maintenance Issues'],['Equipment and Mechanical Failures']
+3912021001.0,Watts Bar 2,03/17/2021,05/10/2021,Automatic Reactor Trip on Main Turbine Trip Caused by Main Feed Pump Trip due to Low Condenser Vacuum,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3912023001.0,Watts Bar 2,05/25/2023,07/20/2023,Unanalyzed Condition Related to Loss of the 2A Emergency Diesel Generator During a Postulated Appendix R Fire,['Unclassified'],['Electrical and Power Issues']
+3912023002.0,Watts Bar 2,06/27/2023,08/24/2023,Automatic Reactor Trip due to Main Generator Protection Relay Actuation,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+3912023003.0,Watts Bar 2,08/04/2023,02/29/2024,Automatic Reactor Trip due to Loss of Main Feedwater Regulating Valve Control,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3952021001.0,Summer 1,06/28/2021,02/08/2022,Condition Prohibited by Technical Specifications,['Unclassified'],['Unclassified']
+3952022001.0,Summer 1,11/15/2021,12/15/2022,Manual Reactor Trip due to Main Transformer Fault,['Unclassified'],['Operational Incidents']
+3952022002.0,Summer 1,02/09/2022,12/08/2022,Condition Prohibited By Technical Specifications: Inoperable 'B' Emergency Diesel Generator,['Unclassified'],['Electrical and Power Issues']
+3952023001.0,Summer 1,04/05/2023,05/30/2023,Manual Reactor Trip due to Loss of Main Feedwater Pump,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+3972021001.0,Columbia,09/28/2021,06/09/2022,Integrated Leak Rate Test,['Unclassified'],['Unclassified']
+3972021002.0,Columbia,09/28/2021,06/09/2022,Integrated Leak Rate Test,['Unclassified'],['Unclassified']
+3972024001.0,Columbia,11/21/2023,01/22/2024,Failure to Track Operability Requirements of Transversing In-Core Probe Valves,['Unclassified'],['Equipment and Mechanical Failures']
+4002021004.0,Harris,04/29/2021,06/21/2021,Pressurizer Safety Valve Lift Setpoint Drifted Outside of Technical Specification Tolerance,['Unclassified'],['Equipment and Mechanical Failures']
+4002021005.0,Harris,06/22/2021,08/23/2021,Past Inoperability of Effluent Accident Monitor Exceeded Time Allowed by Technical Specifications,['Unclassified'],['Unclassified']
+4002022001.0,Harris,01/10/2022,03/10/2022,Essential Services Chilled Water Chiller Inoperable due to Pre-Rotation Vane Actuator Control Arm Position,['Unclassified'],['Unclassified']
+4002022003.0,Harris,04/29/2022,06/28/2022,Manual Reactor Trip due to Degrading Condenser Vacuum,['Unclassified'],['Operational Incidents']
+4002022004.0,Harris,05/02/2022,06/30/2022,Both Trains of High Head Safety Injection Inoperable,['Unclassified'],['Unclassified']
+4002022005.0,Harris,08/28/2022,11/28/2022,Manual Reactor Trip due to “B” Condensate Pump Motor Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+4002022006.0,Harris,10/27/2022,07/11/2023,Auxiliary Feedwater Pump Inoperability,['Unclassified'],['Equipment and Mechanical Failures']
+4002022007.0,Harris,10/30/2022,01/26/2023,Automatic Reactor Trip due to Loss of Power from the ‘A’ Auxiliary Bus,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+4002022008.0,Harris,10/30/2022,12/19/2022,Automatic Actuation of Auxiliary Feedwater System,['Unclassified'],['Unclassified']
+4102022001.0,Nine Mile Point 2,04/05/2022,06/03/2022,Automatic Reactor Scram due to Low Reactor Water Level During Maintenance,['Design or Maintenance Issues'],['Unclassified']
+4102022002.0,Nine Mile Point 2,09/04/2022,12/20/2022,Reactor Protection System Actuation While Shutdown,['Unclassified'],['Operational Incidents']
+4102023001.0,Nine Mile Point 2,09/02/2023,10/27/2023,Automatic Reactor SCRAM on Low Level due to Partial Loss of Feedwater,['Unclassified'],['Unclassified']
+4122021001.0,Beaver Valley 2,01/04/2021,03/03/2021,Operation Prohibited by Technical Specifications During a Loss of Control Rod Position Indication Event,['Unclassified'],['Unclassified']
+4122021002.0,Beaver Valley 2,10/05/2021,12/03/2021,Unit 2 Automatic Reactor Trip and Automatic Actuation of the Auxiliary Feedwater System,['Unclassified'],['Operational Incidents']
+4122021003.0,Beaver Valley 2,10/22/2021,12/17/2021,Indications Identified During Reactor Vessel Head Inspection,['Systemic or Policy Failures'],['Unclassified']
+4122021004.0,Beaver Valley 2,11/12/2021,01/11/2022,Unit 2 Manual Reactor Trip,['Unclassified'],['Operational Incidents']
+4122021005.0,Beaver Valley 2,11/17/2021,01/17/2022,Manual Reactor Trip and Auxiliary Feedwater Actuation due to Trip of a Main Feedwater Pump,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+4122022001.0,Beaver Valley 2,07/13/2022,09/08/2022,"Unit 2 Operation or Condition Prohibited by Technical Specification and Loss of Safety Function due to Emergency Diesel 
+Generator Fuel Oil Intrusion into Lube Oil",['Unclassified'],['Electrical and Power Issues']
+4122023001.0,Beaver Valley 2,04/22/2023,06/16/2023,Indications Identified During Reactor Vessel Head Inspection,['Systemic or Policy Failures'],['Unclassified']
+4122023002.0,Beaver Valley 2,05/19/2023,07/12/2023,Automatic Actuation of Auxiliary Feedwater System,['Unclassified'],['Unclassified']
+4122023003.0,Beaver Valley 2,06/11/2023,02/20/2024,Missile Barrier Door Left Open Resulting in a Loss of Safety Function,['Unclassified'],['Unclassified']
+4122023004.0,Beaver Valley 2,07/12/2023,09/08/2023,Condition Prohibited by Technical Specification and Loss of Safety Function due to Emergency Diesel Generator Lube Oil Contamination by Fuel Oil,['Unclassified'],['Electrical and Power Issues']
+4132021005.0,Catawba 1,10/27/2021,12/21/2021,Automatic Actuation of the 1B Emergency Diesel Generator Load Sequencer on Bus Undervoltage Condition,['Unclassified'],['Electrical and Power Issues']
+4142021001.0,Catawba 2,04/20/2021,06/21/2021,Indication Identified During Reactor Pressure Vessel Head Nozzle Penetration Inspection,['Systemic or Policy Failures'],['Unclassified']
+4142021002.0,Catawba 2,05/01/2021,06/29/2021,Valid Actuation of the Unit 2 Reactor Protection System and Auxiliary Feedwater System,['Unclassified'],['Unclassified']
+4142021003.0,Catawba 2,05/25/2021,07/26/2021,Containment Penetration Failure Resulting in Integrated Leak Rate Test Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+4142022001.0,Catawba 2,04/23/2022,06/22/2022,Manual Reactor Trip and Auxiliary Feedwater Start due to Misaligned Control Rods,['Unclassified'],['Operational Incidents']
+4142022002.0,Catawba 2,10/15/2022,12/06/2022,Indications Identified During Reactor Vessel Head Penetration Embedded Flaw Repair Surface Examination,['Unclassified'],['Unclassified']
+4142022003.0,Catawba 2,10/24/2022,12/23/2022,Manual Reactor Trip and Auxiliary Feedwater System Actuation,['Unclassified'],['Operational Incidents']
+4162021001.0,Grand Gulf 1,02/22/2021,11/30/2022,Primary Containment Outer Airlock Door Inoperable due to Unacceptable Leak Rate,['Unclassified'],['Environmental and Containment Issues']
+4162021002.0,Grand Gulf 1,06/17/2021,08/16/2021,Core Monitoring System Software Modeling Error Resulted in Conditions Prohibited by Technical Specifications,['Human Factors and Errors'],['Unclassified']
+4162021003.0,Grand Gulf 1,09/09/2021,11/04/2021,High Pressure Core Spray Declared Inoperable,['Unclassified'],['Unclassified']
+4162021004.0,Grand Gulf 1,11/18/2021,01/19/2022,Procedure Inadequacy Resulted in Core Monitoring System Miscalibration and Violation of Technical Specification,['Unclassified'],['Unclassified']
+4162021005.0,Grand Gulf 1,12/06/2021,02/02/2022,Oscillation Power Range Monitors (OPRMs) Setpoint Error Causes Technical Specification Noncompliance,['Human Factors and Errors'],['Electrical and Power Issues']
+4162022001.0,Grand Gulf 1,06/30/2022,08/29/2022,Manual Reactor Trip due to the Loss of Balance of Plant Transformer 23,['Unclassified'],['Operational Incidents']
+4162022002.0,Grand Gulf 1,10/20/2022,12/19/2022,Loss of Secondary Containment During Standby Gas Treatment System Testing due to Boundary Leakage,['Unclassified'],['Environmental and Containment Issues']
+4162022003.0,Grand Gulf 1,12/19/2022,02/16/2023,Manual Reactor SCRAM due to a Loss of the Condensate and Feed Water System,['Unclassified'],['Unclassified']
+4162023001.0,Grand Gulf 1,06/06/2023,11/30/2023,Valve Closure Test Failure Resulting in Condition Prohibited by Technical Specification,['Unclassified'],['Equipment and Mechanical Failures']
+4162023002.0,Grand Gulf 1,12/16/2023,02/13/2024,Reactor Scram due to Generator Stator Fault to Ground,['Unclassified'],['Electrical and Power Issues']
+4162024003.0,Grand Gulf 1,04/02/2022,08/26/2024,Feedwater Inlet Check Valve Incorrectly Determined Operable,['Unclassified'],['Equipment and Mechanical Failures']
+4232022001.0,Millstone 3,01/26/2022,03/24/2022,Emergency Core Cooling and Reactor Plant Component Cooling Water Systems Inoperable for Time Greater than Allowed by Technical Specifications,['Unclassified'],['Unclassified']
+4232022002.0,Millstone 3,04/05/2022,05/31/2022,Two Main Steam Safety Valves Installed in Wrong Location Resulting in Failure to Lift Within the Technical Specification Acceptance Criteria,['Unclassified'],['Equipment and Mechanical Failures']
+4232022003.0,Millstone 3,10/06/2022,10/28/2023,Gas Void in the Emergency Core Cooling System Resulted In a Condition Prohibited By Technical Specifications,['Unclassified'],['Unclassified']
+4232023001.0,Millstone 3,05/30/2023,07/27/2023,Automatic Reactor Trip due to Main Generator Output Breaker Ground Fault,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+4232023002.0,Millstone 3,09/04/2023,11/30/2023,Auxiliary Feedwater Control Valve Failure Resulting in a Condition Prohibited by Technical Specifications,['Unclassified'],['Equipment and Mechanical Failures']
+4232023003.0,Millstone 3,10/11/2023,12/08/2023,RCS Temperature Detector Exceeded Time Response Acceptance Criteria Resulting in a Condition Prohibited by TS,['Unclassified'],['Unclassified']
+4232023004.0,Millstone 3,10/20/2023,12/19/2023,Reactor Coolant System Pressure Isolation Valves Operational Leakage Exceeded the Acceptance Criteria Resulting in a Condition Prohibited by Technical Specifications,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+4232023005.0,Millstone 3,12/10/2023,02/08/2024,"Oil Leakage From ""C"" RSS Pump Motor Challenged Meeting its Mission Time Resulting in a Condition Prohibited by Technical Specifications",['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+4242021001.0,Vogtle 1,09/16/2021,11/15/2021,Unit 1 Train A Safety Injection Pump Inoperability Causes the Unit to Operate in a Condition Prohibited by Technical Specifications,['Unclassified'],['Equipment and Mechanical Failures']
+4242022001.0,Vogtle 1,05/03/2022,06/24/2022,Manual Reactor Trip due to Loss of a Main Feed Pump,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+4242023001.0,"Vogtle 1, Vogtle 2",01/03/2023,02/27/2023,Partial Loss of Offsite Power Results in Emergency Diesel Generator and Auxiliary Feedwater Actuation,['Unclassified'],['Electrical and Power Issues']
+4242023002.0,Vogtle 1,08/22/2023,10/11/2023,Manual Reactor Trip due to Failure of a Heater Drain Pump and Standby Condensate Pump,['Unclassified'],"['Equipment and Mechanical Failures', 'Operational Incidents']"
+4402021001.0,Perry,06/01/2021,06/27/2021,Division 3 EDG Inoperability Resulting in an Operation or Condition Prohibited by Technical Specifications,['Unclassified'],['Unclassified']
+4402021002.0,Perry,06/17/2021,08/04/2021,Core Monitoring System Software Modeling Error Results in Conditions Prohibited by Technical Specifications,['Human Factors and Errors'],['Unclassified']
+4402022001.0,Perry,06/24/2022,08/17/2022,Low Pressure Core Spray Inoperable due to Loss of Minimum Flow Valve,['Unclassified'],['Equipment and Mechanical Failures']
+4402022002.0,Perry,10/07/2022,12/05/2022,Steam Bypass Valve Demand Limited on the 'B' Train due to a Degraded Signal in the Max Combined Flow Limit Circuit,['Unclassified'],['Equipment and Mechanical Failures']
+4402023001.0,Perry,01/05/2023,02/22/2023,Manual ECCS Actuation Following Automatic Reactor Trip,['Unclassified'],['Operational Incidents']
+4402023002.0,Perry,03/04/2023,04/26/2023,Main Steam Line Leakage Exceeded Technical Specification Limit,['Unclassified'],['Environmental and Containment Issues']
+4402023003.0,Perry,08/10/2023,09/28/2023,Plant Trip During Reactor Protection System Power Transfer,['Unclassified'],['Electrical and Power Issues']
+4432021001.0,Seabrook,03/25/2021,05/20/2021,Pressurizer Safety Valve Outside of Technical Specification Limits Discovered During As-Found Set Point Testing,['Unclassified'],['Equipment and Mechanical Failures']
+4432021002.0,Seabrook,09/17/2021,11/16/2021,Condition Prohibited by Technical Specifications Entered due to Service Water Cooling Tower Fan Inoperable,['Unclassified'],['Unclassified']
+4432023001.0,Seabrook,04/12/2023,06/12/2023,Automatic Actuation of ‘B’ Emergency Diesel Generator Emergency Power Sequencer,['Unclassified'],['Electrical and Power Issues']
+4432023002.0,Seabrook,05/02/2023,06/30/2023,Automatic Actuation of Emergency Service Water During Testing due to a Defective Relay,['Unclassified'],['Unclassified']
+4432023003.0,Seabrook,05/06/2023,06/30/2023,Reactor Protection System Manual Actuation due to Failed Silicon Controlled Rectifiers,['Unclassified'],['Operational Incidents']
+4432023004.0,Seabrook,07/30/2023,09/27/2023,Manual Reactor Trip due to Main Turbine Electro-Hydraulic Control Oil Level,['Unclassified'],['Operational Incidents']
+4432023005.0,Seabrook,11/07/2023,12/20/2023,Auxiliary Feedwater System Inoperable,['Unclassified'],['Unclassified']
+4452022001.0,Comanche Peak 1,09/05/2022,11/03/2022,Reactor Trip due to Turbine Trip Greater Than 50% Power,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+4452023001.0,Comanche Peak 1,06/16/2023,10/12/2023,Automatic Reactor Trip due to Lo-Lo Steam Generator Level,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+4462021001.0,Comanche Peak 2,06/07/2021,02/28/2022,Reactor Trip due to Fault on Main Transformer 2MT1,['Unclassified'],['Operational Incidents']
+4542021001.0,Byron 1,09/19/2021,08/31/2022,Pressurizer Safety Valves As-Found Lift Pressure Outside of Tech Spec Limit,['Unclassified'],['Equipment and Mechanical Failures']
+4542022001.0,"Byron 1, Byron 2",07/12/2022,09/09/2022,0B Control Room Ventilation Supply Fan Failed to Start due to Erroneous Position Indication from the Closed Limit Switch for Charcoal Deluge Valve Interlock,['Unclassified'],['Equipment and Mechanical Failures']
+4542023001.0,"Byron 1, Byron 2",03/16/2023,10/12/2023,0A Control Room Ventilation Inoperable due to Jumpers Left on 0PR031J and 0PR032J,['Unclassified'],['Unclassified']
+4552022001.0,Byron 2,04/23/2022,08/31/2023,Byron Station Unit 2 Volumetric Examinations of Reactor Pressure Vessel Head Core Exit Thermocouple Penetration P-75 Identified an Indication Attributed to Primary Water Stress Corrosion Cracking,['Unclassified'],['Unclassified']
+4562021001.0,Braidwood 1,04/23/2021,06/21/2021,Train A and B Source Range Neutron Flux Trip Functions Bypassed During Plant Startup,['Unclassified'],['Unclassified']
+4562021002.0,Braidwood 1,06/21/2021,08/18/2021,Unit Trip on Generator Load Rejection due to Lightning Strike Within the Unit Switchyard Exceeding the Capabilities of the Switchyard Grounding System,['Unclassified'],['Electrical and Power Issues']
+4562022001.0,Braidwood 1,10/07/2022,11/30/2022,"Liquid Penetrant Indications in Control Rod Drive Mechanism Nozzle Seal Weld Repair due to Subsurface Weld 
+Defects Opening Up from Thermal and Pressure Stresses during Operation",['Unclassified'],['Unclassified']
+4572023001.0,Braidwood 2,09/22/2023,11/17/2023,Unit 2 Train B Auxiliary Feedwater Pump was Inoperable due to Degraded Oil in the Crank Case,['Unclassified'],['Equipment and Mechanical Failures']
+4582021001.0,River Bend,03/25/2021,05/20/2021,Manual Reactor Scram due to Loss of Main Condenser Vacuum,['Unclassified'],['Unclassified']
+4582021002.0,River Bend,04/02/2021,05/28/2021,Automatic Reactor Scram due to Turbine Control System Communication Fault,['Unclassified'],['Unclassified']
+4582021003.0,River Bend,04/08/2021,06/24/2021,Condition Prohibited by Technical Specifications due to Failure to Perform Breaker Functional Test,['Unclassified'],['Equipment and Mechanical Failures']
+4582021004.0,River Bend,06/17/2021,08/16/2021,Core Monitoring System Software Modeling Error Resulted in Conditions Prohibited by Technical Specifications,['Human Factors and Errors'],['Unclassified']
+4582021005.0,River Bend,10/19/2021,12/16/2021,Potential Loss of Safety Function due to Inoperable Reactor Core Isolation Cooling Steam Flow Transmitter,['Unclassified'],['Environmental and Containment Issues']
+4582022001.0,River Bend,03/18/2022,05/17/2022,Condition Prohibited by Technical Specifications due to Residual Heat Removal B Pump Motor Bearing Oil Leak,['Unclassified'],['Equipment and Mechanical Failures']
+4582022002.0,River Bend,04/13/2022,06/09/2022,Condition Prohibited by Technical Specifications due to Reactor Scram and Turbine Trip Level 8 Trip Setpoint Deviation,['Unclassified'],['Unclassified']
+4582022003.0,River Bend,07/04/2022,09/01/2022,Division 1 Standby Diesel Generator Speed Sensor Power Supply Failure,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+4582022004.0,River Bend,09/19/2022,11/15/2023,High Pressure Core Spray Inoperable due to Transformer Failure,['Unclassified'],['Equipment and Mechanical Failures']
+4582023001.0,River Bend,03/24/2023,08/17/2023,Ultimate Heat Sink Inoperable due to Boundary Valve Leakage,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+4582023002.0,River Bend,02/12/2023,09/13/2023,Division I and II Diesel Generators Inoperable due to Exceeding Load Sequence Times,['Unclassified'],['Electrical and Power Issues']
+4582023003.0,River Bend,07/17/2023,11/15/2023,Drywell Atmosphere Radiation Monitor Particulate and Gaseous Channels Inoperable due to Out of Tolerance Conversion Factors,['Unclassified'],['Unclassified']
+4582023004.0,River Bend,11/02/2023,12/28/2023,Drywall Post Accident Radiation Monitor Inoperable due to Unrecognized Surveillance Failure,['Unclassified'],['Equipment and Mechanical Failures']
+4582023005.0,River Bend,11/17/2023,06/04/2024,Manual Reactor Scram due to Lowering Feedwater Temperature Following an Automatic Isolation of Feedwater Heater String,['Unclassified'],['Environmental and Containment Issues']
+4582023006.0,River Bend,12/13/2023,02/08/2024,Automatic Reactor Scram due to a Turbine Trip Following a Disconnect Failure at Switchyard,['Unclassified'],['Equipment and Mechanical Failures']
+4612021001.0,Clinton 1,07/20/2021,08/19/2021,Core Monitoring System Software Modeling Error Results in Condition Prohibited by Technical Specifications,['Human Factors and Errors'],['Unclassified']
+4612021002.0,Clinton 1,10/03/2021,11/01/2022,Core Alterations with Source Range Monitor Inoperable Results in Condition Prohibited by Technical Specifications,['Unclassified'],['Unclassified']
+4612023001.0,Clinton 1,01/31/2023,03/31/2023,Grid Fault Results in Switchyard Breaker Trips and Reactor Scram,['Unclassified'],['Unclassified']
+4822021003.0,Wolf Creek,05/12/2021,07/12/2021,Automatic Reactor Trip due to Low Steam Generator Level,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+4822021004.0,Wolf Creek,08/18/2021,10/18/2021,Low Steam Generator Level due to Main Feedwater Valve Failure Caused Automatic Reactor Trip,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues', 'Operational Incidents']"
+4822022001.0,Wolf Creek,07/18/2022,09/14/2022,Low Steam Generator Level due to Main Feedwater Valve Failure Caused Reactor Trip,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues', 'Operational Incidents']"
+4832021001.0,Callaway,02/09/2021,04/08/2021,Manual Actuation of Essential Service Water System,['Unclassified'],['Operational Incidents']
+4832022001.0,Callaway,01/07/2022,03/07/2022,Reactor Trip During Reactor Trip Breaker Surveillance Testing,['Unclassified'],['Operational Incidents']
+4832022002.0,Callaway,06/21/2022,08/18/2022,Containment Spray Recirculation Valve Out of Position Resulted in Condition Prohibited by Technical Specifications and Condition Which Could Have Prevented Fulfillment of a Safety Function,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+4832022003.0,Callaway,10/25/2022,07/13/2023,"Class 1E Electrical Air Conditioning System Thermal Expansion Valve Failure Resulted in Condition Prohibited by Technical 
+Specifications",['Unclassified'],['Equipment and Mechanical Failures']
+4832023001.0,Callaway,10/01/2023,11/29/2023,Inoperable Instrument Tunnel Sump Level Indication Resulted in Condition Prohibited by Technical Specifications,['Unclassified'],['Unclassified']
+4982021001.0,South Texas 1,02/15/2021,04/15/2021,"Frozen Common Sensing Line Results in Loss of Two Main Feedwater Pumps Leading to Automatic Reactor Protection and
+Auxiliary Feedwater Systems Actuations due to Low Steam Generator Level",['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+4982023001.0,South Texas 1,03/18/2023,07/26/2023,Unit 1 Pressurizer Power Operated Relief Valve Failed to Open,['Unclassified'],"['Equipment and Mechanical Failures', 'Electrical and Power Issues']"
+4982023003.0,South Texas 1,11/10/2023,06/19/2024,"Two Essential Chilled Water Trains Inoperable Resulting in a Condition That Could Have Prevented Fulfillment of a Safety 
+Function",['Unclassified'],['Unclassified']
+4982023004.0,South Texas 1,11/27/2023,04/25/2024,Condition Prohibited by Technical Specifications due to Inoperable Train of Essential Chilled Water,['Unclassified'],['Unclassified']
+4992021001.0,South Texas 2,07/01/2021,09/09/2021,Condition Prohibited by Technical Specifications due to Inoperable Containment Isolation Valve,['Unclassified'],"['Equipment and Mechanical Failures', 'Environmental and Containment Issues']"
+4992021002.0,South Texas 2,10/15/2021,07/05/2022,"Condition Prohibited by Technical Specifications due to Inoperable Train of Essential Core Cooling System and Containment 
+Spray System",['Unclassified'],['Environmental and Containment Issues']
+4992022001.0,South Texas 2,01/06/2022,03/03/2022,Automatic Actuation of Emergency Diesel Generator due to Lockout of Switchyard Electrical Bus,['Unclassified'],['Electrical and Power Issues']
+4992023001.0,South Texas 2,11/16/2023,01/15/2024,"Two Essential Chilled Water Trains Inoperable Resulting in a Condition That Could Have Prevented Fulfillment of a Safety 
+Function",['Unclassified'],['Unclassified']
+4992023002.0,South Texas 2,12/02/2023,01/30/2024,Automatic Actuation of Emergency Diesel Generator due to Lockout of Switchyard Electrical Bus,['Unclassified'],['Electrical and Power Issues']
+5282021001.0,"Palo Verde 1, Palo Verde 3",10/20/2021,06/03/2022,Unit 1 and Unit 3 Emergency Diesel Generator Actuation on Loss of Offsite Power to Class 4.16 kV Buses,['Unclassified'],['Electrical and Power Issues']
+5282022001.0,"Palo Verde 1, Palo Verde 3",08/14/2022,10/11/2022,Units 1 and 3 Emergency Diesel Generator Actuation on Loss of Offsite Power to Class 4.16 kV Buses,['Unclassified'],['Electrical and Power Issues']
+5282023001.0,Palo Verde 1,04/08/2023,01/26/2024,Unit 1 Reactor Trip Following a Main Turbine Trip,['Unclassified'],['Operational Incidents']
+5282023002.0,Palo Verde 1,10/09/2023,12/08/2023,Reactor Coolant System Degraded Pressure Boundary,['Unclassified'],['Unclassified']
+5282023003.0,Palo Verde 1,12/06/2023,02/01/2024,Unit 1 Control Room Essential Filtration Actuation Signal (CREFAS) Actuation with Essential Spray Pond Pump Start,['Unclassified'],['Equipment and Mechanical Failures']
+5292021001.0,Palo Verde 2,02/26/2021,04/23/2021,Automatic Actuation of the Reactor Protection System Resulting from a Loss of Reactor Coolant Pumps,['Unclassified'],['Equipment and Mechanical Failures']
+5292021002.0,Palo Verde 2,05/19/2021,01/28/2022,Unit 2 Reactor Trip During Plant Protection System Surveillance Testing,['Unclassified'],['Operational Incidents']
+5292022001.0,"Palo Verde 2, Palo Verde 3",05/04/2022,07/01/2022,Units 2 and Unit 3 Emergency Diesel Generator Actuation on Loss of Offsite Power to Class 4.16 kV Buses,['Unclassified'],['Electrical and Power Issues']
+5292023001.0,Palo Verde 2,06/02/2023,11/09/2023,Unit 2 Automatic Reactor Trip on Low Steam Generator Water Level due to Degraded Feedwater Flow,['Unclassified'],"['Electrical and Power Issues', 'Operational Incidents']"
+5302021001.0,Palo Verde 3,12/06/2021,07/14/2022,Unit 3 Reactor Trip During Control Element Assembly Alignment Activities,['Unclassified'],['Operational Incidents']
